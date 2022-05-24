@@ -1,0 +1,1 @@
+set_global_assignment -name QIP_FILE [file join $::quartus(qip_path) ece385_finalproject_soc/ece385_finalproject_soc.qip]

@@ -1,0 +1,9 @@
+module  block_address ( input [9:0]   DrawX, DrawY,       // Current pixel coordinates
+								output int    address,
+							 );   
+    always_comb begin
+           
+				address = DistY * 5'd20 + DistX;
+	 end
+    
+endmodule

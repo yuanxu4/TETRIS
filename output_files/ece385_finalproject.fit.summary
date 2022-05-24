@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sun Jan 02 18:32:02 2022
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : ece385_finalproject
+Top-level Entity Name : ece385_finalproject
+Family : Cyclone IV E
+Device : EP4CE115F29C7
+Timing Models : Final
+Total logic elements : 15,088 / 114,480 ( 13 % )
+    Total combinational functions : 14,242 / 114,480 ( 12 % )
+    Dedicated logic registers : 2,745 / 114,480 ( 2 % )
+Total registers : 2864
+Total pins : 136 / 529 ( 26 % )
+Total virtual pins : 0
+Total memory bits : 1,356,432 / 3,981,312 ( 34 % )
+Embedded Multiplier 9-bit elements : 0 / 532 ( 0 % )
+Total PLLs : 2 / 4 ( 50 % )
